@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+slprj/
+*.mex*
+# OS / editor
+.DS_Store
+Thumbs.db
+# Local simulation output (add the final video separately if wanted)
+tissue_images/
